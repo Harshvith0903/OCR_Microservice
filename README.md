@@ -57,12 +57,7 @@ This project is a Flask-based web application that allows users to upload a PDF 
 - `POST /` - Handle PDF file upload and start processing.
 - `GET /download` - Serve the processed Excel file for download.
 
-## Contributing
-Contributions are welcome! Feel free to submit issues or pull requests to improve the project.
-
 ## License
 This project is licensed under the MIT License.
 
-## Author
-Developed by [Your Name](https://github.com/your-username).
 
